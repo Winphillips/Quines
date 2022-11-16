@@ -1,0 +1,2 @@
+# Quines
+Quine implementation's
